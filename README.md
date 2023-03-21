@@ -4,7 +4,7 @@
 PlantDoctor is an application that uses machine learning algorithms to detect and diagnose plant diseases. With this app, you can quickly identify diseases affecting your plants, and take necessary actions to prevent further damage.
 
 #Features
-Plant disease detection using image recognition technology
+Plant disease detection using image recognition technology.
 Accurate and quick disease identification
 Easy to use interface
 
